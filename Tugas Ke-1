@@ -1,0 +1,10 @@
+# Penginderaan-Visual-Robot
+Amalia Septyani Amirullah_NIM 220206500009
+Membuat Repository dengan (Upload File) di Github.com
+Penjelasan mengenai perbedaan Git dan GitHub, sebagai berikut:
+
+   Git dan GitHub adalah dua konsep yang seringkali dikaitkan dalam pengembangan perangkat lunak, tetapi keduanya memiliki perbedaan yang signifikan. Git merupakan sistem kontrol versi terdistribusi yang diciptakan oleh Linus Torvalds. Fungsinya adalah untuk melacak perubahan dalam kode sumber selama pengembangan perangkat lunak. Dengan Git, seorang pengembang dapat membuat salinan ("clone") repositori di komputer lokalnya, melakukan perubahan, dan mengirimkannya kembali ke repositori utama. Git membantu dalam manajemen kode sumber, memfasilitasi kolaborasi, dan memungkinkan pemeliharaan histori perubahan.
+
+Sementara Git berfokus pada manajemen versi secara lokal, GitHub adalah platform hosting yang menyediakan layanan berbasis web untuk repositori Git. GitHub memungkinkan pengembang untuk menyimpan repositori Git mereka secara online dan berkolaborasi dengan orang lain. Platform ini menawarkan fitur-fitur seperti isu (issues) untuk melacak pekerjaan yang perlu dilakukan, tangga (milestones) untuk mengelompokkan tugas, dan penarik (pull requests) untuk memfasilitasi proses penggabungan perubahan dari kontributor eksternal. Dengan GitHub, pengembang dapat bekerja bersama-sama secara efisien, memantau perubahan, dan memberikan umpan balik secara terstruktur.
+
+Perbedaan mendasar lainnya adalah bahwa Git adalah perangkat lunak sumber terbuka yang dapat diunduh dan diinstal secara lokal, sementara GitHub adalah platform berbasis web yang menyediakan layanan hosting. Dengan kata lain, Git adalah inti dari sistem kontrol versi, sedangkan GitHub adalah infrastruktur yang memfasilitasi kolaborasi dan manajemen repositori secara online. Meskipun keduanya sering digunakan bersama, penting untuk memahami perbedaan dasar antara Git dan GitHub agar dapat mengoptimalkan pengembangan perangkat lunak.
